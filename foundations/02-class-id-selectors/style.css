@@ -1,0 +1,18 @@
+p {
+  background-color: rgb(255, 164, 179);
+  font-family: Vedana, "DejaVu Sans", sans-serif;
+}
+
+#bluey {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.big-p {
+  font-size: 24px;
+}
+
+#thick-green {
+  background-color: hsl(100 80 70);
+  font-weight: bold;
+}
